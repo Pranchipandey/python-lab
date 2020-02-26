@@ -1,4 +1,5 @@
-t=tuple(map(int,input(enter elements)
+l=input("enter no").split(',')
+print(l)
+t=tuple(l)
 print(t)
-
 
